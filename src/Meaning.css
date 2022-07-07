@@ -1,0 +1,22 @@
+.Meaning {
+  max-width: 80%;
+  text-align: left;
+  margin: 0 auto;
+}
+
+.Ex {
+  font-size: 12px;
+}
+
+h3 {
+  color: #c70039;
+}
+.De {
+  line-height: 20px;
+}
+
+@media only screen and (min-width: 820px) {
+  .Meaning {
+    max-width: 60%;
+  }
+}
