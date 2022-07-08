@@ -6,10 +6,13 @@
 
 .Ex {
   font-size: 12px;
+  line-height: 14px;
 }
 
 h3 {
   color: #c70039;
+  font-size: 24px;
+  margin: 0 auto;
 }
 .De {
   line-height: 20px;
