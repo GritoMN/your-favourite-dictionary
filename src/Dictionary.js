@@ -4,8 +4,8 @@ import Results from "./Results";
 import "./Dictionary.css";
 import Photos from "./Photos";
 
-export default function Dictionary() {
-  let [keyword, setKeyword] = useState("");
+export default function Dictionary(props) {
+  let [keyword, setKeyword] = useState(props.defaultKeyword);
   let [results, setResults] = useState(null);
   let [photos, setPhotos] = useState(null);
 
@@ -44,6 +44,7 @@ export default function Dictionary() {
           placeholder="Search"
           autoFocus={true}
           onChange={handleKeywordChange}
+          defaultValue={props.defaultKeyword}
         />
       </form>
       <br />
