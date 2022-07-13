@@ -3,7 +3,7 @@
   margin-top: 10px;
   text-align: center;
 }
-.linkGit a {
+.linkGit > a {
   line-height: 0px;
 }
 header {

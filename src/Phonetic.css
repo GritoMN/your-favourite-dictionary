@@ -1,7 +1,7 @@
 .Phonetic {
   color: #ff3c00;
   font-size: 18px;
-  line-height: 12px;
+  line-height: 18px;
   max-width: 80%;
   text-align: left;
   margin: 0 auto;
@@ -9,7 +9,7 @@
 
 a {
   text-decoration: none;
-  line-height: 52px;
+  line-height: 32px;
   font-size: 12px;
   margin: 0 auto;
 }
