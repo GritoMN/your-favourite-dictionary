@@ -1,3 +1,12 @@
+.linkGit {
+  font-size: 10px;
+  margin-top: 10px;
+  text-align: center;
+}
+.linkGit a {
+  line-height: 0px;
+  margin-top: ;
+}
 header {
   text-align: right;
   padding-right: 30px;
