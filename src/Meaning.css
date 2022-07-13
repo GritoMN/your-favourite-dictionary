@@ -6,7 +6,7 @@
 
 .Ex {
   font-size: 14px;
-  line-height: 16px;
+  line-height: 18px;
   color: #0044ff;
 }
 
@@ -14,14 +14,14 @@ h3 {
   color: #ff3c00;
   font-size: 28px;
   margin: 0 auto;
-  margin-bottom: -35px;
+  margin-bottom: -20px;
   margin-top: 40px;
 }
 .De {
   line-height: 24px;
   font-size: 18px;
   margin-bottom: -10px;
-  margin-top: 30px;
+  margin-top: 20px;
 }
 
 @media only screen and (min-width: 1025px) {
