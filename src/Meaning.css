@@ -5,20 +5,26 @@
 }
 
 .Ex {
-  font-size: 12px;
-  line-height: 14px;
+  font-size: 14px;
+  line-height: 16px;
+  color: #0044ff;
 }
 
 h3 {
-  color: #c70039;
-  font-size: 24px;
+  color: #ff3c00;
+  font-size: 28px;
   margin: 0 auto;
+  margin-bottom: -35px;
+  margin-top: 40px;
 }
 .De {
-  line-height: 20px;
+  line-height: 24px;
+  font-size: 18px;
+  margin-bottom: -10px;
+  margin-top: 30px;
 }
 
-@media only screen and (min-width: 820px) {
+@media only screen and (min-width: 1025px) {
   .Meaning {
     max-width: 60%;
   }
