@@ -16,7 +16,7 @@ function App() {
       <div className="App">
         <header className="App-header"> Your Favourite Dictionary App</header>
         <main>
-          <Dictionary defaultKeyword="garden" />
+          <Dictionary defaultKeyword="colors" />
         </main>
       </div>
     </div>
